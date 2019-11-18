@@ -1,0 +1,8 @@
+Convulsion : an process of collecting all the relevant features  from input through an channel using an feature extractor or an kernel
+Filter :  an 3x3 matrix which is stored with set of values and it is operated with  input and performing few operations the  values is passed on to next layer
+Epochs : the number of times the data set is processed for an particular operation intended,  the value better for the DDN
+1x1 convulsion: an 1x1 kernel is operated in a single layer where it processes one pixel per iteration and there is a higher number of layers created 
+3x3 convulsion : an 3x3 kernel is operated on given set of values and it processes 9 values per iteration and it is widely used and it reduces many layers unlike 1x1
+Feature maps : the method of mapping the data from the given input through kernel to the next layer 
+Activation function : Is a function which decides which hidden layer needs to be activated for the required instant of operation 
+Receptive field : the  actual size of the kernel is local receptive field , the total number of pixels processed in the kernel in the last layer is called receptive field 
